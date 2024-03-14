@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Joue à ERA","Lis vos tickets"];
+const statusMessages = ["Play GTAV Online","Read your tickets","Add money to your accounts"];
 
 
 let currentIndex = 0;
